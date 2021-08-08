@@ -154,14 +154,34 @@ ORDER BY SUM(sub.inner_total_revenue)
 
 /* Q11: Produce a report of members and who recommended them in alphabetic surname,firstname order */
 
-SELECT CONCAT(M1.surname, ", ", M1.firstname) AS member_name, CONCAT(M2.surname, ", ", M2.firstname) AS reco_by
+/*Note: This is sqlite compatible in the jupyter notebook*/
+
+SELECT CONCAT(M1.surname, ", ", M1.firstname) AS member_name, 
+CASE WHEN M1.recommendedby > 0 THEN CONCAT(M2.surname, ", ", M2.firstname)
+ELSE "None" END AS reco_by
 FROM Members AS M1
 INNER JOIN Members AS M2 ON M2.memid = M1.recommendedby
-WHERE M1.recommendedby > 0
+WHERE M1.memid > 0
 ORDER BY member_name
 
 /* Q12: Find the facilities with their usage by member, but not guests */
 
+/*Note: This is sqlite compatible in the jupyter notebook*/
+
+SELECT CONCAT(Members.surname, ", ", Members.firstname) AS member_name, Facilities.name, ROUND(SUM(Bookings.slots)/2,1) AS hours_use
+FROM Bookings
+INNER JOIN Members ON Bookings.memid = Members.memid
+INNER JOIN Facilities ON Facilities.facid = Bookings.facid
+WHERE Members.memid > 0
+GROUP BY Members.memid, Facilities.facid
+ORDER BY member_name, Facilities.name
 
 /* Q13: Find the facilities usage by month, but not guests */
 
+SELECT Facilities.name, month(Bookings.starttime) AS month, sum(Bookings.slots)/2 AS hours_use
+FROM Bookings
+INNER JOIN Members ON Bookings.memid = Members.memid
+INNER JOIN Facilities ON Facilities.facid = Bookings.facid
+WHERE Members.memid > 0
+GROUP BY Facilities.facid, month(Bookings.starttime)
+ORDER BY Facilities.name, month DESC
