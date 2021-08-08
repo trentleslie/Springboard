@@ -178,6 +178,8 @@ ORDER BY member_name, Facilities.name
 
 /* Q13: Find the facilities usage by month, but not guests */
 
+/*Note: This is sqlite compatible in the jupyter notebook*/
+
 SELECT Facilities.name, month(Bookings.starttime) AS month, sum(Bookings.slots)/2 AS hours_use
 FROM Bookings
 INNER JOIN Members ON Bookings.memid = Members.memid
