@@ -1,0 +1,647 @@
+recipe_id,add_type,sum_of_additive_type,rcp_ferm_vol,location,add_per_bbl
+75,Hops,1201.02,104.0000000000000000,"Boil Kettle",11.5482694185697
+75,Hops,246.4,104.0000000000000000,Fermenter,2.36923071054312
+75,Hops,95.2,104.0000000000000000,Whirlpool,0.91538458604079
+76,Hops,728.15,108.0000000000000000,"Boil Kettle",6.74212929054543
+76,Hops,129.4,108.0000000000000000,Fermenter,1.19814809163411
+76,Hops,19.41,108.0000000000000000,Whirlpool,0.179722220809371
+78,Hops,47,,"Boil Kettle",
+78,Hops,73,,Fermenter,
+78,Hops,65,,Whirlpool,
+87,Hops,308.7,109.0000000000000000,"Boil Kettle",2.83211020373423
+87,Hops,63.5,109.0000000000000000,Fermenter,0.582568807339449
+87,Hops,52.2,109.0000000000000000,Whirlpool,0.478899054571029
+89,Hops,227.5,115.0000000000000000,"Boil Kettle",1.97826086956522
+89,"Sugar & Syrups",588,115.0000000000000000,Fermenter,5.11304347826087
+89,"Fruit and Honey",7,115.0000000000000000,Whirlpool,0.0608695652173913
+89,Hops,13.6,115.0000000000000000,Whirlpool,0.118260872882345
+92,Hops,285.6,106.0000000000000000,"Boil Kettle",2.69433968022185
+92,"Fruit and Honey",21.3,106.0000000000000000,Whirlpool,0.200943389028873
+92,Hops,17,106.0000000000000000,Whirlpool,0.160377358490566
+93,Hops,1316.4,90.0000000000000000,"Boil Kettle",14.626666937934
+93,"Sugar & Syrups",150,90.0000000000000000,"Boil Kettle",1.66666666666667
+93,Hops,180,90.0000000000000000,Fermenter,2
+93,Hops,61,90.0000000000000000,Whirlpool,0.677777777777778
+94,Hops,347,108.0000000000000000,"Boil Kettle",3.21296296296296
+94,"Fruit and Honey",49,108.0000000000000000,Whirlpool,0.453703703703704
+94,Hops,70,108.0000000000000000,Whirlpool,0.648148148148148
+101,Hops,1057.46,105.0000000000000000,"Boil Kettle",10.0710472470238
+101,Hops,138,105.0000000000000000,Fermenter,1.31428571428571
+101,Hops,32.5,105.0000000000000000,Whirlpool,0.30952380952381
+102,Hops,858,108.0000000000000000,"Boil Kettle",7.94444444444444
+102,Hops,129.2,108.0000000000000000,Fermenter,1.19629626803928
+102,Hops,47,108.0000000000000000,Whirlpool,0.435185185185185
+104,Hops,191.2,108.0000000000000000,"Boil Kettle",1.77037034211335
+104,"Fruit and Honey",294,108.0000000000000000,Fermenter,2.72222222222222
+104,"Fruit and Honey",70,108.0000000000000000,Whirlpool,0.648148148148148
+104,Hops,14,108.0000000000000000,Whirlpool,0.12962962962963
+107,Hops,1327.3,104.5000000000000000,"Boil Kettle",12.7014358739533
+107,Hops,132,104.5000000000000000,Fermenter,1.26315789473684
+107,Hops,60,104.5000000000000000,Whirlpool,0.574162679425837
+111,Hops,127.2,112.0000000000000000,"Boil Kettle",1.13571425846645
+111,"Fruit and Honey",77.5,112.0000000000000000,Fermenter,0.691964285714286
+111,"Fruit and Honey",6.5,112.0000000000000000,Whirlpool,0.0580357142857143
+111,Hops,35.7,112.0000000000000000,Whirlpool,0.318750006811959
+114,Hops,858,108.0000000000000000,"Boil Kettle",7.94444444444444
+114,Hops,129.2,108.0000000000000000,Fermenter,1.19629626803928
+114,"Sugar & Syrups",3782,108.0000000000000000,Fermenter,35.0185185185185
+114,"Fruit and Honey",70,108.0000000000000000,Whirlpool,0.648148148148148
+114,Hops,47,108.0000000000000000,Whirlpool,0.435185185185185
+120,Hops,2814,85.0000000000000000,"Boil Kettle",33.1058823529412
+120,"Sugar & Syrups",100,85.0000000000000000,"Boil Kettle",1.17647058823529
+120,Hops,300,85.0000000000000000,Fermenter,3.52941176470588
+120,Hops,80,85.0000000000000000,Whirlpool,0.941176470588235
+122,Hops,83.5,17.0000000000000000,"Boil Kettle",4.91176470588235
+122,Hops,17,17.0000000000000000,Fermenter,1
+122,Hops,5,17.0000000000000000,Whirlpool,0.294117647058824
+123,Hops,15,,"Boil Kettle",
+123,Hops,10,,"Hop Back",
+125,Hops,227.5,,"Boil Kettle",
+125,"Fruit and Honey",5,,Whirlpool,
+125,Hops,90,,Whirlpool,
+126,Hops,216,,"Boil Kettle",
+126,Hops,14,,Fermenter,
+126,Hops,144,,Whirlpool,
+128,Hops,193.2,122.0000000000000000,"Boil Kettle",1.58360665743468
+128,Hops,70,122.0000000000000000,Fermenter,0.573770491803279
+128,"Sugar & Syrups",1275,122.0000000000000000,Fermenter,10.4508196721311
+128,Hops,40,122.0000000000000000,Whirlpool,0.327868852459016
+132,Hops,1481,103.0000000000000000,"Boil Kettle",14.378640776699
+132,Hops,209,103.0000000000000000,Fermenter,2.02912621359223
+132,Hops,30,103.0000000000000000,"Lauter Tun",0.29126213592233
+132,Hops,90,103.0000000000000000,Whirlpool,0.87378640776699
+137,Hops,556,108.0000000000000000,"Boil Kettle",5.14814814814815
+137,Hops,132,108.0000000000000000,Fermenter,1.22222222222222
+137,Hops,40,108.0000000000000000,Whirlpool,0.37037037037037
+138,Hops,106,110.0000000000000000,"Boil Kettle",0.963636363636364
+138,"Fruit and Honey",7,110.0000000000000000,Fermenter,0.0636363636363636
+138,"Sugar & Syrups",924,110.0000000000000000,Fermenter,8.4
+138,"Fruit and Honey",20,110.0000000000000000,Whirlpool,0.181818181818182
+138,Hops,30,110.0000000000000000,Whirlpool,0.272727272727273
+147,Hops,197.85,112.0000000000000000,"Boil Kettle",1.76651791163853
+147,Hops,21,112.0000000000000000,Whirlpool,0.1875
+148,Hops,11.25,16.5000000000000000,"Boil Kettle",0.681818181818182
+148,"Sugar & Syrups",100,16.5000000000000000,"Boil Kettle",6.06060606060606
+148,"Fruit and Honey",1,16.5000000000000000,Fermenter,0.0606060606060606
+148,"Fruit and Honey",12,16.5000000000000000,Whirlpool,0.727272727272727
+148,Hops,9,16.5000000000000000,Whirlpool,0.545454545454545
+149,Hops,55.8,,"Boil Kettle",
+149,"Fruit and Honey",10,,Fermenter,
+149,Hops,5,,Whirlpool,
+150,Hops,1686,,"Boil Kettle",
+150,Hops,27,,Fermenter,
+150,Hops,21,,Whirlpool,
+156,Hops,74.7,110.0000000000000000,"Boil Kettle",0.679090881347656
+156,"Fruit and Honey",5.2,110.0000000000000000,"Brite Tank",0.047272725538774
+156,"Sugar & Syrups",850,110.0000000000000000,Fermenter,7.72727272727273
+159,Hops,45.5,,"Boil Kettle",
+159,"Fruit and Honey",5,,"Brite Tank",
+159,"Sugar & Syrups",168,,Fermenter,
+159,"Fruit and Honey",5,,Whirlpool,
+159,Hops,6,,Whirlpool,
+164,Hops,23.256,16.5000000000000000,"Boil Kettle",1.4094545768969
+164,"Fruit and Honey",11,16.5000000000000000,Fermenter,0.666666666666667
+164,"Fruit and Honey",1,16.5000000000000000,Whirlpool,0.0606060606060606
+164,Hops,5,16.5000000000000000,Whirlpool,0.303030303030303
+172,Hops,811,16.5000000000000000,"Boil Kettle",49.1515151515151
+172,"Fruit and Honey",2,16.5000000000000000,Fermenter,0.121212121212121
+172,Hops,3,16.5000000000000000,Fermenter,0.181818181818182
+172,"Fruit and Honey",10,16.5000000000000000,Whirlpool,0.606060606060606
+172,Hops,3,16.5000000000000000,Whirlpool,0.181818181818182
+174,Hops,21.25,16.0000000000000000,"Boil Kettle",1.328125
+174,"Sugar & Syrups",100,16.0000000000000000,"Boil Kettle",6.25
+174,"Fruit and Honey",40,16.0000000000000000,"Brite Tank",2.5
+178,Hops,627.6,67.7000000000000000,"Boil Kettle",9.27030983140233
+178,Hops,29,67.7000000000000000,Whirlpool,0.428360413589365
+179,Hops,80,,"Boil Kettle",
+181,Hops,40,,"Boil Kettle",
+181,Hops,29,,Fermenter,
+181,Hops,6,,Whirlpool,
+184,Hops,2603.75,,"Boil Kettle",
+184,Hops,192,,Whirlpool,
+185,Hops,21.5,14.5000000000000000,"Boil Kettle",1.48275862068966
+185,"Sugar & Syrups",55,14.5000000000000000,"Boil Kettle",3.79310344827586
+185,"Fruit and Honey",30,14.5000000000000000,Fermenter,2.06896551724138
+186,Hops,15.5,,"Boil Kettle",
+186,"Sugar & Syrups",110,,"Boil Kettle",
+186,"Fruit and Honey",5,,Fermenter,
+186,"Sugar & Syrups",420,,Fermenter,
+186,"Fruit and Honey",2,,Whirlpool,
+186,Hops,5,,Whirlpool,
+189,Hops,324,,"Boil Kettle",
+190,Hops,70.6,,"Boil Kettle",
+190,"Sugar & Syrups",150,,"Boil Kettle",
+190,Hops,5,,Whirlpool,
+193,Hops,161.7,,"Boil Kettle",
+193,Hops,32,,Fermenter,
+193,Hops,14,,Whirlpool,
+194,Hops,25,16.0000000000000000,"Boil Kettle",1.5625
+194,"Sugar & Syrups",50,16.0000000000000000,"Boil Kettle",3.125
+194,"Fruit and Honey",25,16.0000000000000000,"Brite Tank",1.5625
+194,"Fruit and Honey",1,16.0000000000000000,Whirlpool,0.0625
+195,"Fruit and Honey",200,105.0000000000000000,"Boil Kettle",1.9047619047619
+195,Hops,99.1,105.0000000000000000,"Boil Kettle",0.943809509277344
+195,"Fruit and Honey",15.2,105.0000000000000000,Whirlpool,0.144761912027995
+195,Hops,25,105.0000000000000000,Whirlpool,0.238095238095238
+197,Hops,1533,90.0000000000000000,"Boil Kettle",17.0333333333333
+197,"Sugar & Syrups",150,90.0000000000000000,"Boil Kettle",1.66666666666667
+197,Hops,180,90.0000000000000000,Fermenter,2
+197,Hops,57,90.0000000000000000,Whirlpool,0.633333333333333
+198,Hops,14.6,17.0000000000000000,"Boil Kettle",0.85882355185116
+198,"Sugar & Syrups",110,17.0000000000000000,"Boil Kettle",6.47058823529412
+198,"Fruit and Honey",40,17.0000000000000000,"Brite Tank",2.35294117647059
+199,Hops,141.7,,"Boil Kettle",
+199,Hops,20,,Fermenter,
+199,"Fruit and Honey",12,,Whirlpool,
+199,Hops,10,,Whirlpool,
+201,Hops,81.225,16.0000000000000000,"Boil Kettle",5.07656240463257
+201,Hops,18,16.0000000000000000,Fermenter,1.125
+201,Hops,10,16.0000000000000000,Whirlpool,0.625
+202,Hops,75.25,16.5000000000000000,"Boil Kettle",4.56060606060606
+202,"Sugar & Syrups",50,16.5000000000000000,"Boil Kettle",3.03030303030303
+202,"Fruit and Honey",5,16.5000000000000000,"Brite Tank",0.303030303030303
+202,"Fruit and Honey",19,16.5000000000000000,Fermenter,1.15151515151515
+202,Hops,12,16.5000000000000000,Fermenter,0.727272727272727
+202,Hops,9,16.5000000000000000,Whirlpool,0.545454545454545
+203,Hops,890.8,16.5000000000000000,"Boil Kettle",53.9878743489583
+203,Hops,8,16.5000000000000000,Fermenter,0.484848484848485
+204,Hops,40,14.5000000000000000,Fermenter,2.75862068965517
+204,Hops,248,14.5000000000000000,"Lauter Tun",17.1034482758621
+204,Hops,30,14.5000000000000000,Whirlpool,2.06896551724138
+205,"Fruit and Honey",25,13.0000000000000000,"Boil Kettle",1.92307692307692
+205,Hops,120,13.0000000000000000,"Boil Kettle",9.23076923076923
+205,Hops,5.5,13.0000000000000000,Whirlpool,0.423076923076923
+208,Hops,1122,,"Boil Kettle",
+208,Hops,5,,Whirlpool,
+209,Hops,1112,,"Boil Kettle",
+209,Hops,30,,Fermenter,
+209,Hops,192,,Whirlpool,
+212,"Fruit and Honey",300,,Fermenter,
+213,Hops,92.25,16.0000000000000000,"Boil Kettle",5.765625
+213,Hops,18,16.0000000000000000,Fermenter,1.125
+213,"Sugar & Syrups",252,16.0000000000000000,Fermenter,15.75
+213,"Fruit and Honey",8,16.0000000000000000,Whirlpool,0.5
+213,Hops,9,16.0000000000000000,Whirlpool,0.5625
+214,Hops,181,16.0000000000000000,"Boil Kettle",11.3125
+214,Hops,24,16.0000000000000000,Fermenter,1.5
+214,"Fruit and Honey",12,16.0000000000000000,Whirlpool,0.75
+214,Hops,12,16.0000000000000000,Whirlpool,0.75
+215,Hops,18.5,17.0000000000000000,"Boil Kettle",1.08823529411765
+215,Hops,10,17.0000000000000000,Fermenter,0.588235294117647
+215,Hops,4,17.0000000000000000,Whirlpool,0.235294117647059
+216,Hops,30,17.0000000000000000,"Boil Kettle",1.76470588235294
+216,Hops,4,17.0000000000000000,Whirlpool,0.235294117647059
+217,Hops,120,134.0000000000000000,"Boil Kettle",0.895522388059702
+217,"Sugar & Syrups",770,134.0000000000000000,"Boil Kettle",5.74626865671642
+217,"Fruit and Honey",350,134.0000000000000000,"Brite Tank",2.61194029850746
+218,Hops,89.2,,"Boil Kettle",
+218,Hops,20,,Fermenter,
+218,"Fruit and Honey",16,,Whirlpool,
+218,Hops,12,,Whirlpool,
+219,Hops,7.75,17.0000000000000000,"Boil Kettle",0.455882352941176
+219,Hops,10,17.0000000000000000,Fermenter,0.588235294117647
+219,Hops,10,17.0000000000000000,Whirlpool,0.588235294117647
+220,Hops,22,,"Boil Kettle",
+220,"Sugar & Syrups",220,,"Boil Kettle",
+220,"Fruit and Honey",5,,"Brite Tank",
+220,"Fruit and Honey",5,,Fermenter,
+220,"Fruit and Honey",10,,Whirlpool,
+221,Hops,89.2,,"Boil Kettle",
+221,Hops,20,,Fermenter,
+221,"Fruit and Honey",16,,Whirlpool,
+221,Hops,12,,Whirlpool,
+223,Hops,276,,"Boil Kettle",
+223,Hops,4,,Whirlpool,
+224,Hops,67.34,,"Boil Kettle",
+224,Hops,16,,Fermenter,
+224,Hops,12,,Whirlpool,
+226,Hops,27.7,16.5000000000000000,"Boil Kettle",1.67878792502663
+227,Hops,27,16.4000000000000000,"Boil Kettle",1.64634146341463
+228,Hops,128.15,,"Boil Kettle",
+228,Hops,23.63,,Fermenter,
+228,Hops,9,,Whirlpool,
+229,Hops,12.24,,"Boil Kettle",
+230,Hops,129.25,,"Boil Kettle",
+230,Hops,19.4,,Fermenter,
+230,Hops,7.05,,Whirlpool,
+231,Hops,159.125,,"Boil Kettle",
+231,Hops,15,,Fermenter,
+231,Hops,5,,Whirlpool,
+232,Hops,44,,"Boil Kettle",
+235,Hops,37.4,,"Boil Kettle",
+235,Hops,15,,Fermenter,
+235,Hops,9,,Whirlpool,
+236,Hops,124.4,16.5000000000000000,"Boil Kettle",7.53939403187145
+236,Hops,26,16.5000000000000000,Fermenter,1.57575757575758
+236,Hops,10.1,16.5000000000000000,Whirlpool,0.612121235240589
+237,Hops,129.25,,"Boil Kettle",
+237,Hops,19.4,,Fermenter,
+237,Hops,7.05,,Whirlpool,
+238,Hops,73.8,,"Boil Kettle",
+238,Hops,15,,Fermenter,
+238,"Fruit and Honey",5,,Whirlpool,
+238,Hops,12,,Whirlpool,
+239,Hops,8.75,16.4200000000000000,"Boil Kettle",0.532886723507917
+239,Hops,10,16.4200000000000000,Fermenter,0.609013398294762
+239,Hops,6,16.4200000000000000,Whirlpool,0.365408038976857
+240,Hops,46.1,16.0000000000000000,"Boil Kettle",2.88124990463257
+240,Hops,32,16.0000000000000000,Fermenter,2
+240,Hops,12,16.0000000000000000,Whirlpool,0.75
+241,Hops,19.375,16.0000000000000000,"Boil Kettle",1.2109375
+241,Hops,2,16.0000000000000000,Whirlpool,0.125
+242,Hops,43.15,16.5000000000000000,"Boil Kettle",2.61515160762902
+243,Hops,544.5,106.0000000000000000,"Boil Kettle",5.13679245283019
+243,Hops,138,106.0000000000000000,Fermenter,1.30188679245283
+243,"Fruit and Honey",90,106.0000000000000000,Whirlpool,0.849056603773585
+243,Hops,82,106.0000000000000000,Whirlpool,0.773584905660377
+244,Hops,20,,"Boil Kettle",
+244,"Sugar & Syrups",110,,"Boil Kettle",
+244,"Fruit and Honey",40,,"Brite Tank",
+244,"Fruit and Honey",15,,Whirlpool,
+245,Hops,36.75,,"Boil Kettle",
+245,Hops,15,,Fermenter,
+245,"Sugar & Syrups",126,,Fermenter,
+245,"Fruit and Honey",5,,Whirlpool,
+245,Hops,6,,Whirlpool,
+247,Hops,1241,95.0000000000000000,"Boil Kettle",13.0631578947368
+247,"Sugar & Syrups",100,95.0000000000000000,"Boil Kettle",1.05263157894737
+247,Hops,170.4,95.0000000000000000,Fermenter,1.79368414627878
+247,Hops,57.4,95.0000000000000000,Whirlpool,0.604210542377673
+248,Hops,15,,"Boil Kettle",
+248,Hops,18,,Fermenter,
+248,Hops,16,,Whirlpool,
+250,Hops,34.62,16.0000000000000000,"Boil Kettle",2.16375017166138
+250,Hops,11.4,16.0000000000000000,Fermenter,0.712499976158142
+250,"Sugar & Syrups",176,16.0000000000000000,Fermenter,11
+250,Hops,7.8,16.0000000000000000,Whirlpool,0.487500011920929
+257,Hops,395.5,104.0000000000000000,"Boil Kettle",3.80288461538462
+257,"Fruit and Honey",39,104.0000000000000000,Whirlpool,0.375
+257,Hops,32,104.0000000000000000,Whirlpool,0.307692307692308
+258,Hops,49.5,16.0000000000000000,"Boil Kettle",3.09375
+258,Hops,18,16.0000000000000000,Fermenter,1.125
+258,"Fruit and Honey",5,16.0000000000000000,Whirlpool,0.3125
+258,Hops,8,16.0000000000000000,Whirlpool,0.5
+259,Hops,41.13,16.4000000000000000,"Boil Kettle",2.50792666179378
+259,"Fruit and Honey",18.5,16.4000000000000000,Whirlpool,1.12804878048781
+259,Hops,3.5,16.4000000000000000,Whirlpool,0.213414634146341
+260,Hops,30.5,,"Boil Kettle",
+260,Hops,6,,Whirlpool,
+261,Hops,27.5,,"Boil Kettle",
+261,"Fruit and Honey",8,,Whirlpool,
+261,Hops,3,,Whirlpool,
+262,Hops,51.2,,Fermenter,
+262,Hops,34,,Whirlpool,
+264,Hops,127.2,115.0000000000000000,"Boil Kettle",1.10608692998471
+264,Hops,35.7,115.0000000000000000,Whirlpool,0.310434789242952
+267,Hops,72.5,,"Boil Kettle",
+267,Hops,12,,Fermenter,
+267,Hops,4,,Whirlpool,
+268,Hops,10.08,16.0000000000000000,"Boil Kettle",0.629999995231628
+268,"Fruit and Honey",105,16.0000000000000000,Fermenter,6.5625
+268,"Fruit and Honey",10,16.0000000000000000,Whirlpool,0.625
+268,Hops,3,16.0000000000000000,Whirlpool,0.1875
+269,Hops,59.75,,"Boil Kettle",
+269,Hops,4,,Whirlpool,
+270,Hops,11,,"Boil Kettle",
+270,Hops,10,,Fermenter,
+270,Hops,6,,Whirlpool,
+271,Hops,23.256,,"Boil Kettle",
+271,Hops,5,,Whirlpool,
+272,Hops,97.2,,"Boil Kettle",
+272,"Sugar & Syrups",100,,"Boil Kettle",
+272,Hops,16,,Fermenter,
+272,Hops,13,,Whirlpool,
+273,Hops,58.5,,"Boil Kettle",
+273,"Fruit and Honey",4,,Whirlpool,
+273,Hops,5,,Whirlpool,
+277,Hops,45,,"Boil Kettle",
+279,Hops,13.125,,"Boil Kettle",
+279,"Fruit and Honey",20,,Whirlpool,
+280,Hops,22.1,,"Boil Kettle",
+280,Hops,12,,Fermenter,
+280,Hops,5,,Whirlpool,
+281,Hops,10,,"Boil Kettle",
+281,Hops,30,,Fermenter,
+281,Hops,12,,Whirlpool,
+282,Hops,109.7,12.0000000000000000,"Boil Kettle",9.14166641235352
+282,Hops,5,12.0000000000000000,Whirlpool,0.416666666666667
+292,Hops,123.5,100.0000000000000000,"Boil Kettle",1.235
+292,"Sugar & Syrups",660,100.0000000000000000,"Boil Kettle",6.6
+292,"Fruit and Honey",250,100.0000000000000000,"Brite Tank",2.5
+293,Hops,46.8,16.5000000000000000,"Boil Kettle",2.83636359012488
+293,Hops,14.4,16.5000000000000000,Whirlpool,0.872727249607895
+295,Hops,807.9,105.0000000000000000,"Boil Kettle",7.6942859468006
+295,Hops,120,105.0000000000000000,Fermenter,1.14285714285714
+295,Hops,50,105.0000000000000000,Whirlpool,0.476190476190476
+296,Hops,465,17.5000000000000000,"Boil Kettle",26.5714285714286
+297,Hops,572,,"Boil Kettle",
+297,"Fruit and Honey",180,,Fermenter,
+297,"Fruit and Honey",10,,Whirlpool,
+298,Hops,6.5,,"Boil Kettle",
+298,"Sugar & Syrups",75,,"Boil Kettle",
+298,"Fruit and Honey",89,,Fermenter,
+298,"Fruit and Honey",10,,Whirlpool,
+298,Hops,3,,Whirlpool,
+302,Hops,265.88,91.0000000000000000,"Boil Kettle",2.92175829541552
+302,Hops,180,91.0000000000000000,Fermenter,1.97802197802198
+302,Hops,69.2,91.0000000000000000,Whirlpool,0.76043952690376
+304,Hops,87.5,,"Boil Kettle",
+304,Hops,15,,Fermenter,
+304,Hops,10,,Whirlpool,
+305,Hops,193,,"Boil Kettle",
+305,Hops,20,,Fermenter,
+306,Hops,149,97.4000000000000000,"Boil Kettle",1.52977412731006
+306,"Sugar & Syrups",420,97.4000000000000000,"Boil Kettle",4.31211498973306
+306,"Fruit and Honey",3.5,97.4000000000000000,"Brite Tank",0.0359342915811088
+306,"Fruit and Honey",215,97.4000000000000000,Fermenter,2.20739219712526
+307,Hops,413.3,102.0000000000000000,"Boil Kettle",4.05196066463695
+307,Hops,24,102.0000000000000000,Whirlpool,0.235294117647059
+312,Hops,13.3,,"Boil Kettle",
+312,Hops,14,,Fermenter,
+312,"Fruit and Honey",14,,Whirlpool,
+312,Hops,6,,Whirlpool,
+313,Hops,5.3,,"Boil Kettle",
+314,Hops,56.8,,"Boil Kettle",
+314,Hops,24,,Fermenter,
+314,Hops,8,,Whirlpool,
+315,Hops,122.4,,"Boil Kettle",
+315,Hops,18.5,,Fermenter,
+315,"Sugar & Syrups",550,,Fermenter,
+315,"Fruit and Honey",10,,Whirlpool,
+315,Hops,6.6,,Whirlpool,
+316,Hops,31,16.0000000000000000,Fermenter,1.9375
+316,Hops,15,16.0000000000000000,Whirlpool,0.9375
+317,Hops,146.2,,"Boil Kettle",
+317,Hops,19.2,,Fermenter,
+317,Hops,4.5,,Whirlpool,
+318,Hops,1477,85.0000000000000000,"Boil Kettle",17.3764705882353
+318,"Sugar & Syrups",150,85.0000000000000000,"Boil Kettle",1.76470588235294
+318,Hops,88,85.0000000000000000,Fermenter,1.03529411764706
+318,Hops,33.3,85.0000000000000000,Whirlpool,0.391764696906595
+319,Hops,16.25,,"Boil Kettle",
+319,Hops,13,,Fermenter,
+319,Hops,7,,Whirlpool,
+320,Hops,90,16.5000000000000000,"Boil Kettle",5.45454545454545
+320,"Sugar & Syrups",40,16.5000000000000000,Whirlpool,2.42424242424242
+322,Hops,48.3,,"Boil Kettle",
+322,"Sugar & Syrups",175,,Fermenter,
+322,"Fruit and Honey",2,,Whirlpool,
+322,Hops,3,,Whirlpool,
+323,Hops,12.8,,"Boil Kettle",
+323,"Sugar & Syrups",210,,Fermenter,
+323,"Fruit and Honey",8,,Whirlpool,
+323,Hops,5,,Whirlpool,
+324,Hops,5,,"Boil Kettle",
+324,Hops,23,,Fermenter,
+324,Hops,10.5,,Whirlpool,
+327,Hops,33.6,,"Boil Kettle",
+327,"Sugar & Syrups",65,,"Boil Kettle",
+327,"Fruit and Honey",28,,Whirlpool,
+327,Hops,33.6,,Whirlpool,
+328,Hops,111.2,112.0000000000000000,"Boil Kettle",0.992857115609305
+328,Hops,64,112.0000000000000000,Fermenter,0.571428571428571
+328,Hops,20,112.0000000000000000,Whirlpool,0.178571428571429
+329,Hops,131.6,,"Boil Kettle",
+329,"Sugar & Syrups",50,,"Boil Kettle",
+329,Hops,24,,Fermenter,
+329,Hops,9,,Whirlpool,
+331,Hops,27.5,,"Boil Kettle",
+333,Hops,82.7,,"Boil Kettle",
+333,Hops,28,,Fermenter,
+333,Hops,8,,Whirlpool,
+334,Hops,16.7,16.0000000000000000,"Boil Kettle",1.04375004768372
+334,Hops,10,16.0000000000000000,Fermenter,0.625
+334,Hops,3,16.0000000000000000,Whirlpool,0.1875
+335,Hops,29.7,,"Boil Kettle",
+335,"Fruit and Honey",2,,Fermenter,
+335,"Sugar & Syrups",84,,Fermenter,
+335,Hops,2,,Whirlpool,
+336,Hops,8,15.5000000000000000,"Boil Kettle",0.516129032258065
+336,Hops,30,15.5000000000000000,Fermenter,1.93548387096774
+336,Hops,14,15.5000000000000000,Whirlpool,0.903225806451613
+337,Hops,6.4,16.0000000000000000,"Boil Kettle",0.400000005960464
+337,"Fruit and Honey",274,16.0000000000000000,Fermenter,17.125
+337,"Fruit and Honey",16.5,16.0000000000000000,Whirlpool,1.03125
+338,"Sugar & Syrups",650,165.0000000000000000,"Boil Kettle",3.93939393939394
+338,Hops,230,165.0000000000000000,Fermenter,1.39393939393939
+338,Hops,88.3,165.0000000000000000,Whirlpool,0.535151533647017
+339,Hops,12.5,16.0000000000000000,"Boil Kettle",0.78125
+339,"Fruit and Honey",5,16.0000000000000000,Fermenter,0.3125
+339,"Fruit and Honey",12,16.0000000000000000,Whirlpool,0.75
+339,Hops,2,16.0000000000000000,Whirlpool,0.125
+341,Hops,99.5,16.0000000000000000,"Boil Kettle",6.21875
+341,Hops,30,16.0000000000000000,Fermenter,1.875
+341,Hops,11,16.0000000000000000,Whirlpool,0.6875
+342,Hops,26,,"Boil Kettle",
+342,Hops,21,,Fermenter,
+342,Hops,10,,Whirlpool,
+343,Hops,43.3,,"Boil Kettle",
+343,Hops,10,,Fermenter,
+343,Hops,9,,Whirlpool,
+344,Hops,12.8,,"Boil Kettle",
+344,"Fruit and Honey",18,,Whirlpool,
+348,Hops,27.5,10.0000000000000000,"Boil Kettle",2.75
+349,Hops,49.5,,"Boil Kettle",
+349,Hops,6,,Whirlpool,
+350,Hops,35.5,16.5000000000000000,"Boil Kettle",2.15151515151515
+351,Hops,7.75,17.0000000000000000,"Boil Kettle",0.455882352941176
+351,Hops,12,17.0000000000000000,Fermenter,0.705882352941177
+351,Hops,10,17.0000000000000000,Whirlpool,0.588235294117647
+352,Hops,51,110.0000000000000000,"Boil Kettle",0.463636363636364
+352,Hops,79.9,110.0000000000000000,Fermenter,0.726363580877131
+352,Hops,71.2,110.0000000000000000,Whirlpool,0.647272699529474
+353,Hops,6.5,,"Boil Kettle",
+353,"Sugar & Syrups",345,,"Brite Tank",
+353,"Sugar & Syrups",294,,Fermenter,
+353,"Fruit and Honey",115,,Whirlpool,
+354,Hops,30.1,16.0000000000000000,"Boil Kettle",1.88125002384186
+354,Hops,32,16.0000000000000000,Fermenter,2
+354,Hops,12,16.0000000000000000,Whirlpool,0.75
+359,Hops,5,,"Boil Kettle",
+359,Hops,23,,Fermenter,
+359,Hops,10.5,,Whirlpool,
+360,Hops,227.9,107.0000000000000000,"Boil Kettle",2.12990648501387
+361,Hops,13,,"Boil Kettle",
+361,"Sugar & Syrups",110,,"Boil Kettle",
+361,"Fruit and Honey",442,,Fermenter,
+361,Hops,6,,Whirlpool,
+364,Hops,19.5,,"Boil Kettle",
+364,"Fruit and Honey",600,,"Brite Tank",
+364,"Sugar & Syrups",168,,Fermenter,
+364,"Fruit and Honey",10,,Whirlpool,
+365,Hops,45.1,,"Boil Kettle",
+366,Hops,2884,95.0000000000000000,"Boil Kettle",30.3578947368421
+366,"Sugar & Syrups",300,95.0000000000000000,"Boil Kettle",3.15789473684211
+366,Hops,328,95.0000000000000000,Fermenter,3.45263157894737
+366,Hops,92,95.0000000000000000,Whirlpool,0.968421052631579
+367,Hops,65,,"Boil Kettle",
+367,Hops,40,,Fermenter,
+367,Hops,19,,Whirlpool,
+368,Hops,15.4,,"Boil Kettle",
+368,Hops,8,,Fermenter,
+368,"Fruit and Honey",25,,Whirlpool,
+368,Hops,8.5,,Whirlpool,
+369,Hops,85,,"Boil Kettle",
+369,Hops,15,,Fermenter,
+369,Hops,12,,Whirlpool,
+370,Hops,579,105.0000000000000000,"Boil Kettle",5.51428571428571
+370,Hops,200,105.0000000000000000,Fermenter,1.9047619047619
+370,Hops,77,105.0000000000000000,Whirlpool,0.733333333333333
+371,Hops,120.8,15.5000000000000000,"Boil Kettle",7.79354809176537
+371,Hops,21,15.5000000000000000,Fermenter,1.35483870967742
+371,Hops,8,15.5000000000000000,Whirlpool,0.516129032258065
+372,Hops,22,16.0000000000000000,"Boil Kettle",1.375
+372,"Fruit and Honey",14,16.0000000000000000,Fermenter,0.875
+372,"Fruit and Honey",2,16.0000000000000000,Whirlpool,0.125
+372,Hops,4,16.0000000000000000,Whirlpool,0.25
+373,Hops,21,,Fermenter,
+373,Hops,12,,Whirlpool,
+375,Hops,12.7,,"Boil Kettle",
+375,Hops,24,,Fermenter,
+375,"Sugar & Syrups",336,,Fermenter,
+375,Hops,8,,Whirlpool,
+376,Hops,132,,"Boil Kettle",
+376,"Sugar & Syrups",384,,"Boil Kettle",
+378,Hops,75,15.5000000000000000,"Boil Kettle",4.83870967741936
+378,Hops,16,15.5000000000000000,Fermenter,1.03225806451613
+378,Hops,80,15.5000000000000000,Whirlpool,5.16129032258065
+379,Hops,22,,Fermenter,
+379,Hops,6,,Whirlpool,
+380,Hops,108,,"Boil Kettle",
+380,Hops,16,,Fermenter,
+380,Hops,80,,Whirlpool,
+381,Hops,129.25,16.5000000000000000,"Boil Kettle",7.83333333333333
+381,Hops,19.4,16.5000000000000000,Fermenter,1.1757575526382
+381,Hops,7.05,16.5000000000000000,Whirlpool,0.427272738832416
+382,Hops,18,,"Boil Kettle",
+383,Hops,49,,"Boil Kettle",
+383,Hops,10,,Fermenter,
+383,Hops,5,,Whirlpool,
+384,Hops,26,13.0000000000000000,"Boil Kettle",2
+384,Hops,21,13.0000000000000000,Fermenter,1.61538461538462
+384,Hops,10,13.0000000000000000,Whirlpool,0.769230769230769
+385,Hops,346,85.0000000000000000,"Boil Kettle",4.07058823529412
+385,Hops,270,85.0000000000000000,Fermenter,3.17647058823529
+385,Hops,134,85.0000000000000000,Whirlpool,1.57647058823529
+386,Hops,9.75,,"Boil Kettle",
+386,"Fruit and Honey",3,,Whirlpool,
+387,Hops,285.6,89.0000000000000000,"Boil Kettle",3.20898883262377
+387,"Fruit and Honey",21.3,89.0000000000000000,Whirlpool,0.239325834124276
+387,Hops,17,89.0000000000000000,Whirlpool,0.191011235955056
+388,Hops,62.4,,"Boil Kettle",
+388,"Fruit and Honey",2,,Fermenter,
+388,"Sugar & Syrups",30,,Fermenter,
+388,Hops,4,,Whirlpool,
+388,"Sugar & Syrups",12,,Whirlpool,
+390,Hops,38.4,,"Boil Kettle",
+390,"Fruit and Honey",30,,Fermenter,
+391,Hops,21,14.0000000000000000,Fermenter,1.5
+391,Hops,16,14.0000000000000000,Whirlpool,1.14285714285714
+393,Hops,78,16.0000000000000000,"Boil Kettle",4.875
+393,Hops,40,16.0000000000000000,Fermenter,2.5
+393,Hops,19,16.0000000000000000,Whirlpool,1.1875
+394,Hops,50.2,,"Boil Kettle",
+394,Hops,8,,Whirlpool,
+395,Hops,183,105.0000000000000000,"Boil Kettle",1.74285714285714
+395,"Fruit and Honey",282,105.0000000000000000,Fermenter,2.68571428571429
+395,"Fruit and Honey",68,105.0000000000000000,Whirlpool,0.647619047619048
+395,Hops,13.4,105.0000000000000000,Whirlpool,0.127619043986003
+396,Hops,6,15.5000000000000000,"Boil Kettle",0.387096774193548
+396,Hops,34.5,15.5000000000000000,Fermenter,2.2258064516129
+396,Hops,10.5,15.5000000000000000,Whirlpool,0.67741935483871
+397,Hops,292.3,110.0000000000000000,"Boil Kettle",2.65727261629972
+399,Hops,19.5,16.0000000000000000,"Boil Kettle",1.21875
+399,Hops,24,16.0000000000000000,Fermenter,1.5
+399,Hops,10,16.0000000000000000,Whirlpool,0.625
+400,Hops,37.5,,"Boil Kettle",
+400,Hops,24,,Fermenter,
+400,Hops,15,,Whirlpool,
+402,Hops,38.1,,"Boil Kettle",
+402,"Sugar & Syrups",128,,"Boil Kettle",
+402,Hops,8,,Fermenter,
+402,Hops,8,,Whirlpool,
+403,Hops,292.3,116.0000000000000000,"Boil Kettle",2.51982748097387
+404,"Fruit and Honey",5,,"Boil Kettle",
+404,Hops,9.9,,"Boil Kettle",
+404,"Fruit and Honey",173,,Fermenter,
+404,"Sugar & Syrups",126,,Fermenter,
+404,"Fruit and Honey",5,,Whirlpool,
+405,Hops,33.6,,"Boil Kettle",
+406,"Fruit and Honey",42,,Fermenter,
+406,"Sugar & Syrups",210,,Fermenter,
+406,Hops,6,,Whirlpool,
+409,Hops,37.95,,"Boil Kettle",
+410,Hops,19.5,16.0000000000000000,"Boil Kettle",1.21875
+410,Hops,24,16.0000000000000000,Fermenter,1.5
+410,Hops,10,16.0000000000000000,Whirlpool,0.625
+411,Hops,210,105.0000000000000000,Fermenter,2
+411,Hops,120,105.0000000000000000,Whirlpool,1.14285714285714
+413,Hops,54.5,,"Boil Kettle",
+413,Hops,26,,Fermenter,
+413,Hops,10,,Whirlpool,
+414,Hops,126,110.0000000000000000,"Boil Kettle",1.14545454545455
+414,Hops,160,110.0000000000000000,Fermenter,1.45454545454545
+414,Hops,66.5,110.0000000000000000,Whirlpool,0.604545454545455
+415,Hops,32,16.0000000000000000,Fermenter,2
+415,Hops,18,16.0000000000000000,Whirlpool,1.125
+416,Hops,129.25,,"Boil Kettle",
+416,Hops,19.4,,Fermenter,
+416,Hops,7.05,,Whirlpool,
+417,Hops,63.5,15.0000000000000000,"Boil Kettle",4.23333333333333
+417,Hops,24,15.0000000000000000,Fermenter,1.6
+417,Hops,14,15.0000000000000000,Whirlpool,0.933333333333333
+418,Hops,13,,"Boil Kettle",
+418,"Fruit and Honey",63,,Fermenter,
+418,Hops,32,,Fermenter,
+418,"Sugar & Syrups",126,,Fermenter,
+419,Hops,53.1,,"Boil Kettle",
+419,Hops,32,,Fermenter,
+419,Hops,8,,Whirlpool,
+420,Hops,28.8,,"Boil Kettle",
+420,"Sugar & Syrups",5,,"Boil Kettle",
+420,"Fruit and Honey",650,,"Brite Tank",
+420,"Fruit and Honey",2,,Whirlpool,
+420,Hops,2,,Whirlpool,
+421,Hops,10,,"Boil Kettle",
+421,"Sugar & Syrups",55,,"Boil Kettle",
+421,"Fruit and Honey",28,,Fermenter,
+421,Hops,12,,Fermenter,
+421,Hops,8,,Whirlpool,
+422,Hops,19.5,,"Boil Kettle",
+422,"Fruit and Honey",125,,Whirlpool,
+422,Hops,6,,Whirlpool,
+423,Hops,6.4,,"Boil Kettle",
+423,"Fruit and Honey",300,,"Brite Tank",
+423,"Fruit and Honey",85,,Fermenter,
+423,"Sugar & Syrups",210,,Fermenter,
+423,"Fruit and Honey",17.5,,Whirlpool,
+424,Hops,16,,"Boil Kettle",
+424,Hops,5,,Whirlpool,
+425,Hops,21.25,16.0000000000000000,"Boil Kettle",1.328125
+425,"Sugar & Syrups",110,16.0000000000000000,"Boil Kettle",6.875
+425,"Fruit and Honey",292,16.0000000000000000,"Brite Tank",18.25
+426,Hops,11.25,,"Boil Kettle",
+426,"Sugar & Syrups",493,,Fermenter,
+426,"Fruit and Honey",1,,Whirlpool,
+429,Hops,6,,"Boil Kettle",
+429,Hops,15,,Fermenter,
+429,Hops,12,,Whirlpool,
+430,Hops,55,,"Boil Kettle",
+430,"Fruit and Honey",7.5,,Fermenter,
+430,Hops,18,,Fermenter,
+430,Hops,12,,Whirlpool,
+431,Hops,26.5,,"Boil Kettle",
+431,Hops,4,,Whirlpool,
+432,Hops,26.8,16.5000000000000000,"Boil Kettle",1.62424237800367
+432,"Fruit and Honey",252,16.5000000000000000,Fermenter,15.2727272727273
+432,"Fruit and Honey",10,16.5000000000000000,Whirlpool,0.606060606060606
+432,Hops,8,16.5000000000000000,Whirlpool,0.484848484848485
+434,Hops,15,15.0000000000000000,"Boil Kettle",1
+434,"Sugar & Syrups",252,15.0000000000000000,Fermenter,16.8
+434,Hops,4,15.0000000000000000,Whirlpool,0.266666666666667
+435,Hops,1,16.0000000000000000,"Boil Kettle",0.0625
+435,Hops,18,16.0000000000000000,Fermenter,1.125
+435,Hops,9,16.0000000000000000,Whirlpool,0.5625
+436,Hops,46.4,,"Boil Kettle",
+436,Hops,32,,Fermenter,
+436,Hops,8,,Whirlpool,
